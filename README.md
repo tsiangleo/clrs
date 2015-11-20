@@ -1,9 +1,9 @@
-# 《Introduction to Algorithms》
+# This is an implementation of some algorithms in 《Introduction to Algorithms, 3rd Edition》.
 
-## writen by:
+## thanks for these autors:
 * Thomas H. Cormen，
 * Charles E. Leiserson，
 * Ronald L. Rivest，
 * Clifford Stein
 
-## Massachusetts Institute of Technology
+## implement by c language.
